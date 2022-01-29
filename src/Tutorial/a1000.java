@@ -1,6 +1,6 @@
-package test;
+package Tutorial;
 import java.util.*;
-public class Main{
+public class a1000{
 	public static void main(String args[]){
 		Scanner sc = new Scanner(System.in);
 		int a = sc.nextInt();
