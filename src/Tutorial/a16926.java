@@ -2,7 +2,7 @@ package Tutorial;
 
 import java.util.Scanner;
 
-public class a16926 {
+public class a16926 { // 배열 올리기 1
 
 	public static void main(String[] args) {
 		int[][] delta = { { 0, 1 }, { 1, 0 }, { 0, -1 }, { -1, 0 } }; // 우 하 좌 상 
@@ -37,7 +37,7 @@ public class a16926 {
 					int Y = y + delta[fw][1];
 
 					if (X >= j && Y >= j && X < N - j && Y < M - j) {
-						arr[x][y] = arr[X][Y];
+						arr[x][y] = arr[X][Y]; // 내 다음값을 나한테 가져오기 
 						x = X;
 						y = Y;
 					} else
