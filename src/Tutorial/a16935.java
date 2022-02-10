@@ -2,7 +2,7 @@ package Tutorial;
 
 import java.util.Scanner;
 
-public class a16935 {
+public class a16935 { // 배열 올리기 3
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
