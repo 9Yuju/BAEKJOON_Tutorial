@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class a1110 {
+public class B1_1110_더하기사이클 {
 	public static void main(String[] args) throws NumberFormatException, IOException, InterruptedException {
 		BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
 		int n = Integer.parseInt(bf.readLine());
