@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class a2675 {
+public class B2_2675_문자열반복 {
 	public static void main(String[] args) throws  IOException {
 		BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
 		int T = Integer.parseInt(bf.readLine()); //전체횟수
