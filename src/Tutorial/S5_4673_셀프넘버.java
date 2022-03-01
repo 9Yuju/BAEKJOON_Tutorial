@@ -1,6 +1,6 @@
 package Tutorial;
 
-public class a4673 {
+public class S5_4673_셀프넘버 {
 	public static void main(String[] args) {
 		boolean []x = new boolean[10001];//1부터 10000까지
 		
